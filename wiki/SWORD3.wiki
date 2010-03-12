@@ -1,0 +1,16 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+The key aims of the second phase of SWORD were:
+
+•	To update the original SWORD application profile and demonstration implementations
+•	To improve the uptake of SWORD through increased advocacy efforts
+•	To diversify and expedite the options for both the population and the use and reuse of repository content
+
+50K <- funding
