@@ -2,18 +2,19 @@
 
 =FAQ=
   * Q: What is a Programme? (see diagram below)
-    * A: A Programme is a Collection or a Set of Projects
-  * Q: What is a Programme-Strand? (see diagram below)
-    * A: A 'strand' is a themed set of projects that are funded together, but are still apart of the larger overall Programme, e.g. there is usually one programme manager per strand.
+    * A: A 'Programme' is a collection or a set of 'Projects'.
+  * Q: What is a 'Programme-Strand'? (see diagram below)
+    * A: A 'strand' is a themed set of projects that are funded together, but are still apart of the larger overall Programme, e.g. there is usually one programme manager per strand, though many programme managers with multiple strands in a programme.
   * Q: Why do you clump projects together?
-    * A: So we can 'synthesise' (tell the bigger stories and share good practice), evaluate (examine and guide the new ways forward for innovation) and realise benefits (select the best of breed projects to further advance for the good of all).
+    * A: So we can 'synthesise' (tell the bigger stories and share good practice), 'evaluate' (examine and guide the new ways forward for innovation) and 'realise benefits' (select the best of breed projects to further advance for the good of all).
   * Why do you use terms like 'programme', 'strand', 'sythesise', 'evaluate' and 'benefits realisation'? 
     * A: Mostly so we can speak with other Programme Managers about what we are doing, but it does help projects understand how they are structured alongside other projects.
+  * Q: I want to know more how JISC structures Programmes, Strands and Projects?
+    * A: Really? - well we are tentatively based off a methodology called 'Managing Successful Programmes' as part of the PRINCE2 Framework, however speak with your Programme Manager to know more.
 
 http://farm5.static.flickr.com/4033/4426403997_e272915404.jpg
 
 = Service Level Agreement =
-
 The following is a list of services that the Programme Manager can provide your project (please note: each individual programme manager has a different style of management and so a request for any one of these services should be made rather than expected):
 
 == The Aim of the ProgM's Job ==
@@ -23,9 +24,9 @@ The general metaphor for 'what a programme manager does' can be surmised as a "l
 
 == Objectives of a ProgM's Job ==
   # Primarily _the job of the Programme Managers is to get know you_ and the "thing" (output) the project is producing, be that code, reports or guides.  Once the Programme Manager can effectively describe the project (project team + output) they can then feedback to JISC, ergo encourage future funding innovation!  
-    * As a pragmatic word of advice, the project should know that JISC has over 200+ projects on the go at any one time, which usually means a programme manager only has about 120 characters to explain what your project is producing; so, helping you construct a brief synopsis of your project is essential in helping the programme manager in promoting the projects existence.  
-    * The above should not be confused with the overall primary aim and audience of the project which should be to the end user and community, NOT just JISC.
-  # A programme manager must audit the accomplishments of the project via supporting documentation.  The most laborious part of the Programme Manager's job is keeping track of the documentation projects are _*required*_ to produce throughout the life of the project.  To help make this easier, I've summarised the ProjectDocumentation on the wiki.  
+    * As a pragmatic word of advice, the project should know that JISC has over 200+ projects on the go at any one time, which usually means a programme manager only has about 120 characters to explain what your project is producing; so, helping you construct a brief synopsis of your project is essential in helping the programme manager in promoting your project's existence.  
+    * The above should not be confused with the overall primary aim and audience of the project which should be to the end user and community, NOT just JISC.  The best projects are usually active community members (not just JISC projects).
+  # A programme manager must audit the accomplishments of the project via supporting documentation.  The most laborious part of the Programme Manager's job is keeping track of the documentation projects are _*required*_ to produce throughout the life of the project.  To help make this easier, I've summarised the ProjectDocumentation you will need to complete on the wiki tab.  
     * Deadlines for project documentation will be articulated well in advance of the due date and stated on the ProjectDocumentation page.
     * Communication on expected delivery of project documentation is required (if you are late with any documentation notice should be early and often!!!)
     * _Failure to actively communicate with the Programme Manager on documentation can result in stoppage and even pulling back of your funding._ <- please make my life easy by just staying in touch!
@@ -49,7 +50,20 @@ From a typical 6 month project the following can be expected from the Programme 
     * Having you meet 'critical friends' in the JISC community: UKOLN, CETIS, RSP, etc.
     * You usually get a nice meal out of it, let alone the networking opportunities :)
   
+= Communicating with Your Programme Manager =
+(Every ProgM has their preferred method of communication, mine are below and I strictly enforce this so I can keep track of the 50+ projects I have under my remit):
 
+== When should you contact your ProgM? ==
+* 
+
+== How should I contact my ProgM? ==
+(IN ORDER OF PREFERENCE)
+* Project Blog Posts:  If it is worth telling me it is worth telling the community!  I love project blog posts because they are a.) on the Web and addressable (have a URL), b.) are open and available to the world (use HTML which is a truly open format unlike DOC and have a feed anyone can subscribe to for updates, and c.) they get knowledge out in the now and not after the projects is over (they also help you reflect when it does come time to think about what you learned).
+* Comments on this wiki: If it is just a minor update to the project not worthy of a blog post then I expect projects to submit messages via the 'comments' section on their project page on the wiki tag (these comments are emailed back to me and I'll email you accordingly).
+* Skype/Phone: If you require a higher bandwidth of information transfer please skype (david.flanders) or call me (07891501194).  I attempt to keep Monday and Friday afternoons free for ad hoc calls so please don't hesitate to use your voice!
+* Email: As a last resort there is email, which will have a much greater delay than any of the above.  Though I of course welcome any communication with my projects even email ;-)
+
+== subSection ==
 * Updates on when ProjectDocumentation is due
     * Feedback on how we can make documentation better for other community members enjoyment always appreciated.
   * Notifying you of any support projects for the programme
