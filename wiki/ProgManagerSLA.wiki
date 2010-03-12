@@ -1,10 +1,10 @@
-#summary This page describes what a Programme Manager is to a project and how they can help and communicate with you.
+#summary This page describes what a Programme Manager is to a project and how they can help you.
 
 =FAQ=
-  * Q: What is a Programme? (see diagram below)
-    * A: A 'Programme' is a collection or a set of 'Projects'.
-  * Q: What is a 'Programme-Strand'? (see diagram below)
-    * A: A 'strand' is a themed set of projects that are funded together, but are still apart of the larger overall Programme, e.g. there is usually one programme manager per strand, though many programme managers with multiple strands in a programme.
+  * Q: What is a Programme?
+    * A: A 'Programme' is a collection or a set of 'Projects' (see diagram below).
+  * Q: What is a 'Programme-Strand'?
+    * A: A 'strand' is a themed set of projects that are funded together, but are still apart of the larger overall Programme, e.g. there is usually one programme manager per strand, though many programme managers with multiple strands in a programme. (see diagram below)
   * Q: Why do you clump projects together?
     * A: So we can 'synthesise' (tell the bigger stories and share good practice), 'evaluate' (examine and guide the new ways forward for innovation) and 'realise benefits' (select the best of breed projects to further advance for the good of all).
   * Why do you use terms like 'programme', 'strand', 'sythesise', 'evaluate' and 'benefits realisation'? 
