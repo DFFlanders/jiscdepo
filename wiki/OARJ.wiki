@@ -1,4 +1,4 @@
-#summary a service redirects research papers to the institution(s) with which it is associated.
+#summary a service that redirects research papers to the institution(s) with which they are associated.
 
 = Introduction =
 
