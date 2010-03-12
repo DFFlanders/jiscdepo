@@ -1,47 +1,56 @@
 #summary This page describes what a Programme Manager is to a project and how they can help and communicate with you.
 
 =FAQ=
-  * Q: What is a Programme?
+  * Q: What is a Programme? (see diagram below)
     * A: A Programme is a Collection or a Set of Projects
+  * Q: What is a Programme-Strand? (see diagram below)
+    * A: A 'strand' is a themed set of projects that are funded together, but are still apart of the larger overall Programme, e.g. there is usually one programme manager per strand.
   * Q: Why do you clump projects together?
-    * A: So we can synthesise (tell the bigger stories and share good practice), evaluate (examine and guide the new ways forward for innovation) and 
+    * A: So we can 'synthesise' (tell the bigger stories and share good practice), evaluate (examine and guide the new ways forward for innovation) and realise benefits (select the best of breed projects to further advance for the good of all).
+  * Why do you use terms like 'programme', 'strand', 'sythesise', 'evaluate' and 'benefits realisation'? 
+    * A: Mostly so we can speak with other Programme Managers about what we are doing, but it does help projects understand how they are structured alongside other projects.
+
+http://farm5.static.flickr.com/4033/4426403997_e272915404.jpg
 
 = Service Level Agreement =
 
-The following is a list of things that the Programme Manager is likely to consult upon for each project (please note: each individual programme manager has a different style of management and so a request for any one of these services should be made rather than expected):
+The following is a list of services that the Programme Manager can provide your project (please note: each individual programme manager has a different style of management and so a request for any one of these services should be made rather than expected):
 
 == The Aim of the ProgM's Job ==
 http://farm4.static.flickr.com/3536/3465474060_c2b0604246.jpg?v=0
 
-  # The general metaphor for 'what a programme manager does' can be surmised as a "lightning rod": existing in the HE/FE 'ether' so as to try and take advantage of the patterns across all the projects ('in the clouds') and bring their ideas down to earth so we can organise around the significant memes as a community (the other analogy is that of a "symbiotic communal organism", but that is not as cool as a "lightning rod" <zap!> ;-)
+The general metaphor for 'what a programme manager does' can be surmised as a "lightning rod": existing in the HE/FE 'ether' so as to try and take advantage of the patterns across all the projects ('in the clouds') and bring their ideas down to earth so we can organise around the significant memes as a community (the other analogy is that of a "symbiotic communal organism", but that is not as cool as a "lightning rod" <zap!> ;-)
 
 == Objectives of a ProgM's Job ==
-    * Programme managers are interested in WINS and FAILS equally, and of course there is "no penalty for learning" (personally I feel the fails are often more valuable for the community than the wins).
-    * _Help me help you_, by feeding back small WINS and FAILS: a quick email, a quick tweet, a quick skype IM, etc.  Please celebrate the small victories and learned failures by letting me know!
   # Primarily _the job of the Programme Managers is to get know you_ and the "thing" (output) the project is producing, be that code, reports or guides.  Once the Programme Manager can effectively describe the project (project team + output) they can then feedback to JISC, ergo encourage future funding innovation!  
     * As a pragmatic word of advice, the project should know that JISC has over 200+ projects on the go at any one time, which usually means a programme manager only has about 120 characters to explain what your project is producing; so, helping you construct a brief synopsis of your project is essential in helping the programme manager in promoting the projects existence.  
     * The above should not be confused with the overall primary aim and audience of the project which should be to the end user and community, NOT just JISC.
-  # A programme manager must audit the accomplishments of the project via supporting documentation.  The most laborious part of the Programme Manager's job is keeping track of the documentation projects are _*required*_ to produce throughout the life of the project.  To help make this easier, I've summarised the ProjectDocumentation on the wiki (though please do see all supporting project documentation on the JISC website).  
+  # A programme manager must audit the accomplishments of the project via supporting documentation.  The most laborious part of the Programme Manager's job is keeping track of the documentation projects are _*required*_ to produce throughout the life of the project.  To help make this easier, I've summarised the ProjectDocumentation on the wiki.  
     * Deadlines for project documentation will be articulated well in advance of the due date and stated on the ProjectDocumentation page.
     * Communication on expected delivery of project documentation is required (if you are late with any documentation notice should be early and often!!!)
     * _Failure to actively communicate with the Programme Manager on documentation can result in stoppage and even pulling back of your funding._ <- please make my life easy by just staying in touch!
   # A programme manager will attempt to organise events around common patterns and nodes that emerge over the course of the project.
     * Ideas for events welcome, especially if you can provide a free venue! ;-)
   # A programme manager primarily enjoys being there to help _support projects_ by providing advice on: development practices, IPR, evaluation techniques, dissemination plan and business case (sustainability) strategy. 
-    * Projects (like dissertations) can be very lonely at times and decisions are made without consulting community members, your programme manager should be able to provide advice and more importantly connect you will people in the community who have been through it before!
-  # Last but certainly not least is the essential service of helping create a community, which of course requires the wisdom of crowds so we can find commonalities to exploit!  
+    * Projects can be very lonely at times and decisions are made without consulting community members, your programme manager should be able to provide advice and more importantly connect you will people in the community who have been through it before.
+  # Last but certainly not least is the essential service of helping create a community, which of course requires the wisdom of crowds so we can find commonalities to exploit.  
     * Any ideas for how to enable shared commonalties between communities is greatly appreciated (and please do think outside of the JISC community box, there is a World Wild Web out there to utilise!).  
+    * I am equally interested in WINS and FAILS, and of course there is "no penalty for learning" (personally I feel the fails are often more valuable for the community than the wins).
+    * _Help me help you_, by feeding back small WINS and FAILS: a quick email, a quick tweet, a quick skype IM, etc.  Please celebrate the small victories and learned failures by letting me know!
 
 = Chronological examples of service rendered by Programme Manager to individual projects =
 
 From a typical 6 month project the following can be expected from the Programme Manager:
+  * A phone/skype call as soon as you receive your Grant letter to congratulate you and tell you about this page and to schedule a Face2Face meeting with you and your team.
   * A F2F visit to the host project institution to meet and greet the project team (project manager, developers and bonus points if we can meet a real end user!)
   * A Programme Meeting with all projects in attendance
     * Going over best practice in project practices
-    * Getting you to know other projects <- projects do better when they find other projects to informally talk things over with
+    * Getting you to know other projects <- projects do better when they find other projects with which to informally talk things over.
     * Having you meet 'critical friends' in the JISC community: UKOLN, CETIS, RSP, etc.
     * You usually get a nice meal out of it, let alone the networking opportunities :)
-  * Updates on when ProjectDocumentation is due
+  
+
+* Updates on when ProjectDocumentation is due
     * Feedback on how we can make documentation better for other community members enjoyment always appreciated.
   * Notifying you of any support projects for the programme
     * e.g. developer community days, support team projects, evaluation and IPR workshops, etc.
@@ -60,3 +69,6 @@ From a typical 6 month project the following can be expected from the Programme 
   * Asking for your advice on other similar projects
     * Asking exemplary projects to mark the next round of bids for funding
     * Acquiring expert advice to advise or sit on JISC working groups
+
+= AGREEMENT AND SIGN OFF IN COMMENTS SECTION BELOW =
+HAVE YOU READ AND DO YOU AGREE WITH THE ABOVE SLA (especially the sections on 'how to communicate with your programme manager'), IF SO PLEASE LEAVE YOUR NAME AND PROJECT NAME IN THE COMMENTS SECTION BELOW.
