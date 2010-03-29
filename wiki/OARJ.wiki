@@ -26,11 +26,13 @@ _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be
   * Grant Awarded to Project:
 
 = Project Team =
-  * Product Owner: 
-  * Developer:
-  * Admin:
-  * Partners:
-  * Consultants:
+  * Product Owner: Theo Andrew (Thurs/Fri at Edina doing PM)
+  * Developer: Ian Stuart
+
+  * Publishers: Grace Baynes, Terra Packa (Nature) 
+  * Repository: Phil Vaughn
+  * Welcome: Alicin Henning
+  * Repository Manager: Oxford, Auckland (Stuart Lewis), Open Repository (Graham Triggs), Southampton Crew
   * Users:
 
 = Documentation =
