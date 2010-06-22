@@ -1,4 +1,5 @@
 #summary This page describes what a Programme Manager is to a project and how they can help you.
+#labels ProgrammeDocumentation
 
 = Service Level Agreement =
 The following is a list of services that the Programme Manager can provide your project (please note: each individual programme manager has a different style of management and so a request for any one of these services should be made rather than expected):
@@ -11,40 +12,34 @@ The general metaphor for 'what a programme manager does' can be surmised as a "l
 == Objectives of a ProgM's Job ==
   # Primarily _the job of the Programme Managers is to get know you_ and the "thing" (output) the project is producing, be that code, reports or guides.  Once the Programme Manager can effectively describe the project (project team + output) they can then feedback to JISC, ergo encourage future funding innovation!  
     * As a pragmatic word of advice, the project should know that JISC has over 200+ projects on the go at any one time, which usually means a programme manager only has about 120 characters to explain what your project is producing; so, helping you construct a brief synopsis of your project is essential in helping the programme manager in promoting your project's existence.  
-    * The above should not be confused with the overall primary aim and audience of the project which should be to the end user and community, NOT just JISC.  The best projects are usually active community members (not just JISC projects).
+    * The above should not be confused with the overall primary aim and audience of the project which should be to the end user and community, NOT just JISC.  The best projects are usually active community members (not *just* JISC projects).
   # A programme manager must audit the accomplishments of the project via supporting documentation.  The most laborious part of the Programme Manager's job is keeping track of the documentation projects are _*required*_ to produce throughout the life of the project.  To help make this easier, I've summarised the ProjectDocumentationInstructions on a single page so that projects will have a single place to check in with regards to what documentation they should be producing.  
     * Deadlines for project documentation will be articulated well in advance of the due date and stated on the ProjectDocumentationInstructions page.
     * Communication on expected delivery of project documentation is required (if you are late with any documentation notice should be early and often!!!)
     * _Failure to actively communicate with the Programme Manager on documentation can result in stoppage and even pulling back of your funding._ <- please make my life easy by just staying in touch!
   # A programme manager will attempt to organise events around common patterns and nodes that emerge over the course of the project.
-    * Ideas for events welcome, especially if you can provide a free venue! ;-)
+    * Ideas for events welcome, especially if you can provide the venue! ;-)
   # A programme manager primarily enjoys being there to help _support projects_ by providing advice on: development practices, IPR, evaluation techniques, dissemination plan and business case (sustainability) strategy. 
     * Projects can be very lonely at times and decisions are made without consulting community members, your programme manager should be able to provide advice and more importantly connect you will people in the community who have been through it before.
-  # Last but certainly not least is the essential service of helping create a community, which of course requires the wisdom of crowds so we can find commonalities to exploit.  
-    * Any ideas for how to enable shared commonalties between communities is greatly appreciated (and please do think outside of the JISC community box, there is a World Wild Web out there to utilise!).  
+  # Last but certainly not least is the essential service of helping create a community, which of course requires the 'wisdom of crowds' so we can find commonalities to exploit.  
+    * Any ideas for how to enable shared commonalties between communities is greatly appreciated (and please do think outside of the JISC community box, there is a World Wild Web out there to utilise).  
     * I am equally interested in WINS and FAILS, and of course there is "no penalty for learning" (personally I feel the "fails" are often more valuable for the community than the "wins").  So please keep your project blog up to date with those interesting things you are learning along the way.
 
 = Chronological examples of service rendered by Programme Manager to individual projects =
 
-From a typical 6 month project the following can be expected from the Programme Manager:
-  * A phone/skype call as soon as you receive your Grant letter to congratulate you and tell you about this page and to schedule a Face2Face meeting with you and your team.
-  * A F2F visit to the host project institution to meet and greet the project team (project manager, developers and bonus points if we can meet a real end user!)
-  * A Programme Meeting with all projects in attendance (each project must send at least one -preferably two- delegates).
+
+  
+= Chronological examples of service rendered by Programme Manager to individual projects =
+
+From a typical 12 month project the following can be expected from the Programme Manager:
+  * A welcome letter (hopefully you got here via that letter) as soon as you receive your Grant letter to congratulate you and get you to declare a tag, fill out your DOAP form and get going on your Project Plan posts (see ProjectDocumentationInstructions )
+  * A half-day SiteVisit to get to know you, your team and your project.
+  * A ProgrammeMeeting with all projects in attendance (each project must send at least one -preferably two- delegates).
     * Going over best practice in project practices
     * Getting you to know other projects <- projects do better when they find other projects with which to informally talk things over.
     * Having you meet the 'JISC Innovation Support Centre' representatives: UKOLN, CETIS, etc.
     * You usually get a nice meal out of it, let alone the networking opportunities :)
-  
-= Chronological examples of service rendered by Programme Manager to individual projects =
-
-From a typical 6 month project the following can be expected from the Programme Manager:
-  * A F2F visit to the host project institution to meet and greet the project team (project manager, developers and bonus points if we can meet a real end user!)
-  * A Programme Meeting with all projects in attendance
-    * Guidance and knowledge sharing on what skills need to be developed as an effective project manager and innovation development team.
-    * Getting you to know other projects <- projects do better when they find other projects to informally talk about things.
-    * Having you meet 'critical friends' in the JISC community: devCSI community, UKOLN Support Centre, CETIS Support Centre, IPR Consultancy, Marketing and Advertisement support, etc.
-    * You usually get a nice meal out of it, let alone the networking opportunities :)
-  * Regular email updates on when Project Documentation is due
+  * Regular email updates on when Project Documentation via your project blog is due (all documentation activity should take place via your blog)
     * Feedback on how we can make documentation better for other community members enjoyment always appreciated.
   * Notifying you of any support projects or training events that might be applicable to the programme
     * e.g. developer community days, support team projects, evaluation and IPR workshops, etc.
@@ -53,11 +48,11 @@ From a typical 6 month project the following can be expected from the Programme 
     * Any multi-developer gathering: talkShop, barcamp, pair-programming, etc.
   * On call (twitter, skype, email, etc.) support on any queries.
     * Preference for asynchronous short messages if possible (e.g. twitter, skype, etc.)
-    * Always glad to have a quick chat on the phone/skype (david.flanders), I usually try and work from home on Monday and Friday and welcome ad hoc calls on those days.
+    * Always glad to have a quick chat on the phone/skype
   * Attendance at final project events
     * Meetings with senior management
     * Final evaluation lunches 
-    * Software launch events
+    * Project launch events
   * Encouraging you to come along to community events, 
     * e.g. the JISC conference, other relevant Programme meetings
   * Asking for your advice on other similar projects
