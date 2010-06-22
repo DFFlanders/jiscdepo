@@ -27,7 +27,7 @@ _NOTE TO PROJECT ON THIS PAGE: This is my informal open notebook page on your pr
   * *Project Director*: 
   * *Project Manager*: 
   * *Developer*:
-  * *Account Manager*: 
+  * *Account/Budget Manager*: 
   * *Partners*:
     * *Consultants*:
     * *Users*:
@@ -45,10 +45,10 @@ _NOTE TO PROJECT ON THIS PAGE: This is my informal open notebook page on your pr
   * Project Website:  
   * PIMS listing:
   * Core Project Resources:
-  * Project Plan:
+  * Project Plan Posts:
   * Final Project Post: 
-  * Final Budget:
-  * Sign-off Form:
+  * Final Spend Budget:
+  * Sign-off Survey Form:
 
 = Correspondence (below as comments) =
 Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
