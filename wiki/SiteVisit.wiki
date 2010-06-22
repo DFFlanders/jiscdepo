@@ -1,4 +1,5 @@
 #summary This page lists the topics that need to be covered by the Programme Manager in visiting each project face-to-face.
+#labels ProgrammeDocumentation
 
 = Why visit each project face-to-face? =
 
