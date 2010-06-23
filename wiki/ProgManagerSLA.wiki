@@ -24,10 +24,6 @@ The general metaphor for 'what a programme manager does' can be surmised as a "l
   # Last but certainly not least is the essential service of helping create a community, which of course requires the 'wisdom of crowds' so we can find commonalities to exploit.  
     * Any ideas for how to enable shared commonalties between communities is greatly appreciated (and please do think outside of the JISC community box, there is a World Wild Web out there to utilise).  
     * I am equally interested in WINS and FAILS, and of course there is "no penalty for learning" (personally I feel the "fails" are often more valuable for the community than the "wins").  So please keep your project blog up to date with those interesting things you are learning along the way.
-
-= Chronological examples of service rendered by Programme Manager to individual projects =
-
-
   
 = Chronological examples of service rendered by Programme Manager to individual projects =
 
@@ -58,6 +54,9 @@ From a typical 12 month project the following can be expected from the Programme
   * Asking for your advice on other similar projects
     * Asking exemplary projects to mark the next round of bids for funding
     * Acquiring expert advice to advise or sit on JISC working groups
+
+= Transparency and Licensing =
+Please note any communications with the JISC Programme manager are subject to the Freedom and Information Act.  To assure that FoI is met your Programme Manager will attempt to publish as much information as possible online and in the open.  Accordingly, please know that than any email or communication with your Programme Manager will be made available online unless otherwise requested or if it contains personally sensitive data (otherwise the default is open).  As each JISC project is also spending tax payer money I would encourage you to keep everything in the open and transparent for anyone to comment upon.  The default license used for all information created by the Programme Manager is Creative Common Attribution Share Alike, as specified in the licensing section of this website.
 
 = Project Manager / Primary Investigator SLA Sign-Off =
 PLEASE MAKE SURE TO ACKNOWLEDGE THE READING OF THIS DOCUMENT BY LEAVING YOUR NAME AND A COMMENT, for example:
