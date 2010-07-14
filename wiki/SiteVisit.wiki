@@ -8,7 +8,7 @@ From the JISC Programme Manager's point of view the site visit is the most signi
 
 == Setting up the site visit ==
 
-Prior to the SiteVisit the project should have completed their "DOAP form" and "Project Plan Posts", see [ProgrammeDocumentationInstructions].
+Prior to the SiteVisit the project should have completed their "DOAP form" and "Project Plan Posts", see ProjectDocumentationInstructions.
 
 === Preparation for a good site visit: ===
   * The site visit will take at least 3 hours (best if scheduled with lunch before or after the meeting so we can talk about something else other than shop).
@@ -16,10 +16,10 @@ Prior to the SiteVisit the project should have completed their "DOAP form" and "
   * As many of the project team members as possible should attend at some point (not everyone has to be there at the same time, but the Programme Manager has come all that way to see people face-to-face so please do schedule time with all team members accordingly), a tour around campus is nice as well - especially if there is the opportunity to see real users in the wild!
   *  Please make sure to send directions on how to get to your building well in advance of the site visit (as with all good public sector staff your Programme Manager will be coming via public transport, i.e. train).
   * This is your one and only visit with your programme manager so do take advantage of this meeting, e.g. Programme Manager's are often the most well informed cross-sector person who can make suggestions for how to obtain additional resources for your project.
-  * This meeting is about you and your project so you should do most of the talking; ideally your Programme Manager should be asking questions and taking notes while you provide as much insight as possible!  Please note: this data will help inform the JISC on future spending initiatives.
+  * This meeting is about you and your project so you should do most of the talking; ideally your Programme Manager should be asking questions and taking notes while you provide as much insight as possible!  Please note: this data will help inform the JISC on future funding initiatives.
 
 === Agenda for Site Visit: ===
-(this is not a strict agenda and the meeting should be free-flow conversation, though all topics should be covered by the conclusion of the meeting).
+(this is not a strict agenda and the meeting should be a free-flow conversation, though all of the below topics should be covered by the conclusion of the meeting).
   * Whose who (introductions): 
     * Who is who and what is their background in relation to this project?
     * Which part of the project is each person responsible?
