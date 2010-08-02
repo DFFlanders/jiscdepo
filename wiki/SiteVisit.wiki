@@ -53,5 +53,6 @@ After the site visit the Programme Manager has quite a few tasks they will follo
     * The strand definition document will inform the ChangeLog so that overall progress of all the projects can be recorded as they advance the sector.
   * Themes from all the project site visits will be collected and analysed to inform the Programme Meeting (where all project come together to share experiences)    
 
+= What the point of this meeting in terms of what JISC is trying to achieve =
 The Programme Manager uses the report produced from each project SiteVisit to draw out theme that then define the "programme baseline start".  It is this document that is used at the end of the projects to compare what has been achieved and change in that amount of time.  The 'programme baseline end' document is produced based off the 'Final Project Post' and the 'Sign-off Survey Form' (as described in the ProjectDocumentationInstructions )
 http://farm5.static.flickr.com/4023/4717586562_b55fe13140.jpg
