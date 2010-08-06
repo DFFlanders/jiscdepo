@@ -40,16 +40,16 @@ http://2.bp.blogspot.com/_9fk0bedWfOA/TEcPWNPoUwI/AAAAAAAAAAM/7A0XqN9d1N8/s1600/
 
 = Documentation =
 
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://jiscreposit.blogspot.com/feeds/posts/default" width="700" height="700" border="1" up_showaddbutton="20"/>
   
-  * Project Blog:
-    * Feed: 
+  * Project Blog: http://jiscreposit.blogspot.com/
+    * Feed: http://jiscreposit.blogspot.com/feeds/posts/default 
   * Code Repository: 
-  * Technical Documentation: 
-  * End User Documentation: 
-  * Analytics Engine: 
+  * Technical Documentation: http://groups.google.com/group/reposit/files 
+  * End User Documentation: http://groups.google.com/group/reposit/files  
+  * Analytics Engine: http://www.seethestats.com/site/jiscreposit.blogspot.com
   * Project Website:  
-  * PIMS listing:
+  * PIMS listing: 
   * Core Project Resources:
   * Project Plan Posts:
   * Final Project Post: 
