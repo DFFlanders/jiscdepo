@@ -34,10 +34,10 @@ _NOTE TO PROJECT ON THIS PAGE: This is my informal open notebook page on your pr
 
 = Documentation =
 
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://sonexworkgroup.blogspot.com/feeds/posts/default" width="700" height="700" border="1" up_showaddbutton="20"/>
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="feed here" width="700" height="700" border="1" up_showaddbutton="20"/>
   
-  * Project Blog: http://sonexworkgroup.blogspot.com/
-    * Feed: http://sonexworkgroup.blogspot.com/feeds/posts/default 
+  * Project Blog: 
+    * Feed: 
   * Code Repository: 
   * Technical Documentation: 
   * End User Documentation: 
