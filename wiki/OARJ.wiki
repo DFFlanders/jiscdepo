@@ -20,7 +20,7 @@ _NOTE TO PROJECT ON THIS PAGE: This is my informal open notebook page on your pr
   * *JISC Programme/Strand*: INF11 / jiscDEPO / Repository / SharedService
   * *Length of Project*: 18 Months
     * *Project Start Date*: 1st August 2009
-    * *Project End Date*: 31st March 2011
+    * *Project End Date*: 31st March 2011 <- no cost extension 'til 31st of June 2011
   * *Grant Awarded to Project*: £151,117
 
 = Project Team =
