@@ -1,0 +1,56 @@
+_NOTE TO PROJECT ON THIS PAGE: This is my informal open notebook page on your project.  I'll do my best to keep it up to date, but this is just my personal notes so it will not be pretty!  If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me as I will be auto notified by this system. /dff_
+
+# Project Overview #
+  * **Full Name of Project**: Simple Web Service Offering Remote Deposit v.3
+    * **Project Tag**: SWORD3
+  * **Project Descriptions** (how would you describe this project to your neighbour?):
+    * **short**: >120 characters
+    * **long**: 3 x Sentences
+    * **problem it solves?**:
+  * **Project Outputs/Products/Deliverables** (what thing are you producing?):
+    1. SWORD website will be updated with step-by-step instructional documentation for how various key stakeholders can learn about and engage with SWORD (walk-throughs for repository managers and developers at a minimum) <-- this will be achieved through the workshop and plugfest that Stuart and Adrian will put on at OR10 so that we know the documentation works in the real world.
+    1. an A4 glossy giving a high-level overview of 'what is SWORD' that anyone in HEIs can understand and digest so as to understand the value that SWORD bring to the community and institution.
+    1. A whitepaper describing how SWORD could be advanced, via modularisations (in the form of IETF RfC paper) so that full APP can be implemented with CRUD methods installed atop repository workflows.
+    1. Ongoing community news updates via SWORD Blog or Listserv.
+
+
+# Project Details #
+  * **Name of Host Institution**: University of Bath
+    * **Department**: UKOLN
+  * **JISC Programme/Strand**: INF11 / ?
+  * **Length of Project**:
+    * **Project Start Date**:
+    * **Project End Date**:
+  * **Grant Awarded to Project**:
+
+# Project Team #
+  * Project Director: Paul Walk
+  * Project Manager: Adrian Stevenson
+  * Developer: Julian Cheal
+  * Account Manager: TBC
+  * Partners:
+    * Consultants: Jim Downing, Stuart Lewis, Richard Jones
+    * Users:
+
+# Documentation #
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up\_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up\_showaddbutton="20"/>
+
+  * Project Blog:
+    * Feed:
+  * Twitter: http://twitter.com/swordapp
+  * Code Repository: N/A
+  * Technical Documentation: http://www.swordapp.org/sword/specifications
+  * End User Documentation:
+  * Analytics Engine:
+  * Project Website: http://www.swordapp.org/
+  * PIMS listing:
+  * Core Project Resources:
+  * Project Plan:
+  * Final Project Post:
+  * Final Budget:
+  * Sign-off Form:
+
+# Correspondence (below as comments) #
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
+  * Email, Phone calls, twitters, links sent, etc.

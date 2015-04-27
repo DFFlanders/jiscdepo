@@ -1,0 +1,66 @@
+_NOTE TO PROJECT ON THIS PAGE: This is my informal open notebook page on your project.  I'll do my best to keep it up to date, but this is just my personal notes so it will not be pretty!  If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me as I will be auto notified by this system. /dff_
+
+# Project Overview #
+  * **Full Name of Project**: Modus Operandi for Repository Deposits
+    * **Project Tag**: DepositMO) <- aka "MO" = "Microsoft Office"
+  * **Project Descriptions** (how would you describe this project to your neighbour?):
+    * **short**: Changing the culture, embedding deposit into the natural everyday workflow of researchers and lecturers.
+    * **long**: Deposit MO will extend the widely used Microsoft Office suite to enable seamless interaction with repositories to improve deposit usage. Through the production and/or usage of existing standards, DepositMO will produce a specification for the direct interaction between the desktop and various repository environments. Extending this further it is envisioned that this functionality also be available via the native operating system itself (e.g. via a right click menu). DepositMO therefore extends to all authors and data producers both in the UK and worldwide. Within the scope of the project we will be targeting two repository architectures, EPrints and DSpace, and using SWORD and ORE protocols we ensure interoperability
+and sustainability in the long‐term.
+    * **problem it solves?**:
+  * **Project Outputs/Products/Deliverables** (what thing are you producing?):
+    1. Interactive deposit tools for Microsoft Office (focused on Word)
+    1. Integrated desktop tools for easy submission
+    1. Specification for interactive deposit, applicable for both client and server
+
+# Project Details #
+  * **Name of Host Institution**: University of Southampton
+    * **Department**: School of Electronics and Computer Science, SO17 1BJ
+  * **JISC Programme/Strand**:
+  * **Length of Project**:
+    * **Project Start Date**:
+    * **Project End Date**:
+  * **Grant Awarded to Project**:
+
+# Project Team #
+  * **Project Director**:
+  * **Project Manager**: D Tarrant (to end Sept. 10) / S Hitchcock (from start Oct. 10) davetaz@ecs.soton.ac.uk, sh94r@ecs.soton.ac.uk, davetaz, steve.hitchcock1
+  * **Developer**:
+  * **Account/Budget Manager**:
+  * **Partners**: Univeristy of Edinburgh
+    * **Consultants**:
+    * **Users**:
+
+"Steve Hitchcock: Research Fellow; Project Manager
+Les Carr: Senior Lecturer; Project Investigator
+Kenji Takeda: Senior Lecturer; Co-Investigator
+Jeremy Frey: Senior Lecturer; Co-Investigator
+Dave Tarrant: Research Fellow; Lead Developer
+Robin Taylor: DSpace Developer; DSpace Developer
+Richard Boardman: Microsoft Developer
+Mark Borkum: Desktop Developer
+Simon de Montfalcon: Southampton Coaching Team Leader
+Morag Watson: Edinburgh Coaching Team Leader
+Wendy White: Southampton Repository Manager"
+
+# Documentation #
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up\_feeds="http://blogs.ecs.soton.ac.uk/depositmo/feed/atom/" width="700" height="700" border="1" up\_showaddbutton="20"/>
+
+  * Project Blog: http://blogs.ecs.soton.ac.uk/depositmo
+    * Feed: http://blogs.ecs.soton.ac.uk/depositmo/feed/atom/
+  * Code Repository:
+  * Technical Documentation: http://depositmo.eprints.org
+  * End User Documentation:
+  * Analytics Engine:
+  * Project Website:
+  * PIMS listing:
+  * Core Project Resources:
+  * Project Plan Posts:
+  * Final Project Post:
+  * Final Spend Budget:
+  * Sign-off Survey Form:
+
+# Correspondence (below as comments) #
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
+  * Email, Phone calls, twitters, links sent, etc.

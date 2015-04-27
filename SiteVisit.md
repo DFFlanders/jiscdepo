@@ -1,0 +1,56 @@
+# Why visit each project face-to-face? #
+
+From the JISC Programme Manager's point of view the site visit is the most significant time spent with projects as it gives a chance to find out what each individual project is excited and passionate about.  Why care about excitement and passion? - Because, these are the things that drive change and innovation (well that and a really good user-centric idea). This meeting is an opportunity to find out how and why your excitement for a new way of doing things has been kindled.
+  * The result of the Programme Manager having a Site Visit meeting with all the projects will be an overall "strand definition" document, which will state the sector-wide "change" that the projects as a collective whole are trying to achieve, aka we are looking for the big picture: the sum of all the project parts.
+
+## Setting up the site visit ##
+
+Prior to the Site Visit the project should have completed their "DOAP form" and "Project Plan Posts", see ProjectDocumentationInstructions.
+
+### Preparation for a good site visit: ###
+  * The site visit will take at least 3 hours (best if scheduled with lunch before or after the meeting so we can talk about something else other than shop).
+  * If a whiteboard and/or flip chart could be available in the meeting room so that a common diagram of the project can be drawn up during the meeting.
+  * As many of the project team members as possible should attend at some point (not everyone has to be there at the same time, but the Programme Manager has come all that way to see people face-to-face so please do schedule time with all team members accordingly), a tour around campus is nice as well - especially if there is the opportunity to see real users in the wild!
+  * Please make sure to send directions on how to get to your building well in advance of the site visit (as with all good public sector staff your Programme Manager will be coming via public transport, i.e. train).
+  * This is your one and only visit with your programme manager so do take advantage of this meeting, e.g. Programme Manager's are often the most well informed cross-sector person who can make suggestions for how to obtain additional resources for your project.
+  * This meeting is about you and your project so you should do most of the talking; ideally your Programme Manager should be asking questions and taking notes while you provide as much insight as possible!  Please note: this data will help inform the JISC on future funding initiatives.
+
+### Agenda for Site Visit: ###
+(this is not a strict agenda and the meeting should be a free-flow conversation, though all of the below topics should be covered by the conclusion of the meeting).
+  * Whose who (introductions):
+    * Who is who and what is their background in relation to this project?
+    * Which part of the project is each person responsible?
+  * How does JISC work:
+    * What does a JISC Programme Manager do?
+    * What does it mean to be a JISC project?
+  * What is the 'jiscLMS Programme':
+    * How does your project fit within it?
+    * What relations to other projects should you have?
+    * What can you expect during the course of the programme in terms of support and wider dissemination of your project outputs?
+  * What has been the history of this project?
+    * How did it come about, what was the original seed idea for the project?
+  * How would you currently describe the value of your project to a senior stakeholder?
+    * What is the product this project is producing, e.g. if someone asked right now what 'thing' they could reuse from your project, what would it be?
+    * Who is your primary audience you are thinking of when thinking about the output you are producing?
+  * At the end of this project what is going to happen?
+    * How will this project be re-funded or closed?
+    * What other business models could this project take advantage of if successful?
+    * How will staff be re-funded and what other concerns will they have as the funding comes to an end?
+  * What further resources could JISC provide the project?
+    * What addition skills do the project need?
+    * Who could the project benefit speaking to for further guidance?
+
+### Post site visit ###
+After the site visit the Programme Manager has quite a few tasks they will follow-up on:
+  * The Programme Manager will type up their notes and post them on this website (notifying the project and asking for any corrections)
+    * Actions from the notes will be followed.
+    * The notes (once approved by the project) will be passed on to other JISC staff for guidance and/or potential networks.
+  * A 'Strand Definition' document describing the overall themes from all the Site Visits will be created and posted on this website for feedback
+    * This document will be delivered to the 'Programme Evaluator' and JISC SMT to help further guide strategic efforts.
+    * The strand definition document will inform the ChangeLog so that overall progress of all the projects can be recorded as they advance the sector.
+  * Themes from all the project site visits will be collected and analysed to inform the Programme Meeting (where all project come together to share experiences)
+
+# What the point of this meeting in terms of what JISC is trying to achieve #
+The Programme Manager uses the report produced from each project SiteVisit to draw out theme that then define the "programme baseline start" (see image below).  It is this "baseline" document that is used at the end of the projects to compare what has been achieved and what has changed in that amount of time.  The 'programme baseline end' document is produced based off the 'Final Project Post' and the 'Sign-off Survey Form' (as described in the ProjectDocumentationInstructions ).  These two 'baseline' documents are compared to reveal the overall change and benefits to the sector that have been achieved.
+
+![http://farm5.static.flickr.com/4023/4717586562_b55fe13140.jpg](http://farm5.static.flickr.com/4023/4717586562_b55fe13140.jpg)

@@ -1,0 +1,58 @@
+_NOTE TO PROJECT ON THIS PAGE: This is my informal open notebook page on your project.  I'll do my best to keep it up to date, but this is just my personal notes so it will not be pretty!  If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me as I will be auto notified by this system. /dff_
+
+
+# Project Overview #
+  * **Full Name of Project**:RePosit: positing a new kind of deposit
+    * **Project Tag**:reposit
+  * **Project Descriptions** (how would you describe this project to your neighbour?):
+    * **short**: >Finding and overcoming the barriers to deposit using a remote interface, through investigation, training and advocacy.
+    * **long**: The RePosit project is a collaboration between 5 HEIs all of whom use or are in the process of migrating to using a publications management system as a primary deposit interface to their digital repositories. The aim is to encourage engagement by researchers and increase the uptake of this interface within each institution. Training and support materials will be developed and will be available to the community as a whole, which are of value to all HEIs in this situation irrespective of the software that they use. The project will begin with a review of existing strategies for increasing uptake based on previous JISC projects, and move on to the development and implementation of advocacy programmes and training materials for workshops at the partner institutions, to both enhance the repository and validate the approaches decided upon. The project will evaluate its success by comparing before-and-after statistics for the repository content, by examining the potential number of deposits from the publications management system, and by soliciting feedback from the users as to the effectiveness of the software and the training approaches, which will then be disseminated to the wider deposit community.
+    * **problem it solves?**:
+  * Project Outputs/Products/Deliverables**(what thing are you producing?):
+    * Advocacy and training materials;
+    * Final report covering best practice based on experience and user surveys;
+    * User community space**
+
+
+# Project Details #
+  * **Name of Host Institution**:
+    * **Department**:
+  * **JISC Programme/Strand**:
+  * **Length of Project**:
+    * **Project Start Date**: start: 20/07/10,
+    * **Project End Date**: end: 19/07/11. Delayed start due to the timing of the response to the project proposal from JISC and the timing of OR10.
+  * **Grant Awarded to Project**: £118053
+
+# Project Team #
+  * **Project Director**:
+  * **Project Manager**:Lizzie Dipple lizzie@symplectic.co.uk Skype: ldipple Tel. 020 77334036
+  * **Developer**:
+  * **Account/Budget Manager**:
+  * **Partners**:
+    * **Consultants**:
+    * **Users**:
+Bo Middleton (University of Leeds) – project director Jodie Double (University of Leeds) Rachel Proudfoot (University of Leeds) Ian Tilsed (University of Exeter) Jill Evans (University of Exeter) Ellie James (Keele University) Nicola Cockarill (University of Plymouth) Sarah Molloy (Queen Mary, University of London) Richard Jones (Symplectic Ltd) – project champion Lizzie Dipple (Symplectic Ltd) – project manager
+
+![http://2.bp.blogspot.com/_9fk0bedWfOA/TEcPWNPoUwI/AAAAAAAAAAM/7A0XqN9d1N8/s550/project+team+photo.jpg](http://2.bp.blogspot.com/_9fk0bedWfOA/TEcPWNPoUwI/AAAAAAAAAAM/7A0XqN9d1N8/s550/project+team+photo.jpg)
+
+# Documentation #
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up\_feeds="http://jiscreposit.blogspot.com/feeds/posts/default" width="700" height="700" border="1" up\_showaddbutton="20"/>
+
+  * Project Blog: http://jiscreposit.blogspot.com/
+    * Feed: http://jiscreposit.blogspot.com/feeds/posts/default
+  * Code Repository:
+  * Technical Documentation: http://groups.google.com/group/reposit/files
+  * End User Documentation: http://groups.google.com/group/reposit/files
+  * Analytics Engine: http://www.seethestats.com/site/jiscreposit.blogspot.com
+  * Project Website:
+  * PIMS listing:
+  * Core Project Resources:
+  * Project Plan Posts:
+  * Final Project Post:
+  * Final Spend Budget:
+  * Sign-off Survey Form:
+
+# Correspondence (below as comments) #
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
+  * Email, Phone calls, twitters, links sent, etc.
